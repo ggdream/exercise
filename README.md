@@ -1,4 +1,0 @@
-# exercise
-
-
-![](docs/flower.svg)
